@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# ML Models
+backend/app/models/
+*.pkl
+*.joblib
+
+# Virtual environment
+venv/
+.venv/
+
+# React
+node_modules/
+dist/

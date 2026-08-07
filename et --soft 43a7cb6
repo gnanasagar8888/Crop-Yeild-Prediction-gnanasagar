@@ -1,0 +1,15 @@
+[33md210e36[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Complete SmartYield project
+[33m56db583[m feature engineered the dataset -remove yaer feild and trained and compared diffrent typres of models & processed encoders
+[33mc2d9744[m added api for the google continuation and added researcher role routes
+[33m9ee11eb[m created a dataset withot year feature and compared all the ML algotithm
+[33m051984b[m added data folder  insidxe the ml folder
+[33m43a7cb6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add data cleaning pipeline and processed dataset
+[33m1c8eca1[m added secured routes to login page
+[33m5d9ecce[m secured admin endpoints and api routes and added email for registration
+[33me33f808[m connected login page with backend
+[33m1448ae5[m added jwt authentication and connected database
+[33m8548150[m Added requirement txt file
+[33mf458b83[m added FAOSTAT
+[33mc1dc681[m added raw crop yeild data
+[33me21506e[m Initial project structure for YieldSense AI
+[33mc081db6[m Initial project structure
